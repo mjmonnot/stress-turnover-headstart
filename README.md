@@ -1,8 +1,14 @@
 # Stress and turnover in Head Start
 
-Companion site for a LinkedIn post on secondary analysis of the Wang, Goldenberg, Lerner, and Gross (2025) Head Start reappraisal trial.
+Companion site for:
 
-Live: https://mjmonnot.github.io/stress-turnover-headstart/
+Monnot, M. J. (2026). *Stress and turnover in helping professions: A randomized controlled longitudinal study of Head Start employees*. SSRN. https://doi.org/10.2139/ssrn.7637538
+
+- DOI: https://doi.org/10.2139/ssrn.7637538
+- PDF: https://mjmonnot.github.io/assets/pdfs/Monnot_2026_Stress_Turnover_HeadStart_SSRN_7637538.pdf
+- Live: https://mjmonnot.github.io/stress-turnover-headstart/
+
+Secondary analysis of the Wang, Goldenberg, Lerner, and Gross (2025) Head Start reappraisal trial.
 
 No respondent-level data. Every number is a published aggregate from the manuscript and locked aggregate outputs.
 
